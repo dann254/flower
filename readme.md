@@ -23,12 +23,12 @@ This app demonstrates the functionality of xlrd and xlwt.
 	2. flowers.xlsx - this is the flower database.
 # original document.
 <p align="center">
-  <img src="./screen_shots/flower.png" width="350"/>
+  <img src="/flower.png" width="350"/>
 </p>
 
 # result document.
 <p align="center">
-  <img src="./screen_shots/result.png" width="350"/>
+  <img src="/result.png" width="350"/>
 </p>
 
 # N/B
