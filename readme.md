@@ -22,10 +22,10 @@ This app demonstrates the functionality of xlrd and xlwt.
 	1. salary.py - this is the main app that does the calculations.
 	2. flowers.xlsx - this is the flower database.
 # original document.
-![alt text](https://github.com/dann254/flower/tree/master/screen_shots/flower.PNG)
+![alt text](screen_shots/flower.PNG?raw=true "")
 
 # result document.
-![alt text](https://github.com/dann254/flower/tree/master/screen_shots/result.PNG)
+![alt text](screen_shots/result.PNG?raw=true "")
 
 # N/B
 note that the employees in the included documents are completely fictional.
